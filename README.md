@@ -11,6 +11,6 @@ This repository includes the projects I made during the datacamp courses.
 - 7- Modeling Car Insurance Claim Outcomes
 - 8- Hypothesis Testing with Men's and Women's Soccer Matches
 - 9- Predictive Modeling for Agriculture
-- 10- Clustering Antarctic Penguin Species
+- 10- Clustering Arctic Penguin Species
 - 11- Predicting Movie Rental Durations
 - 12- The Hottest Topics in Machine Learning
